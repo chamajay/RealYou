@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RealYou</string>
+    <string name="app_version">1.0.0</string>
+    <string name="real">Real</string>
+    <string name="mirrored">Mirrored</string>
+    <string name="about_ic_desc">App about dialog</string>
+    <string name="camera_permission_rationale">Whoops!\nThe app needs camera permission to show your pretty face ✨</string>
+    <string name="camera_permission_required">Hi there!\nThe app needs camera permission to show your pretty face ✨</string>
+    <string name="camera_permission_info">This app only provides a camera preview. No images or videos are captured, or shared.</string>
+    <string name="grant_camera_permission">Grant Camera Permission</string>
+    <string name="github_repo">https://github.com/chamajay/RealYou</string>
+    <string name="copyright">\u00A9 2025 Chamath Jayasena</string>
+    <string name="view_on_github">View on GitHub</string>
+</resources>
